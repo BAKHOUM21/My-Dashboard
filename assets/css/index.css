@@ -61,15 +61,15 @@ h6{
         display: block;
     }
     .card{
-        margin-left: 2%;
-        width: 200px;
+        margin:auto;
+        width: 100%;
         color:rgb(29, 29, 28);
         display:flex;
         border-radius: 20px;
         padding: 2%;
         border: 1px solid black;
         display: flex;
-        background-image: linear-gradient(blue,black,blue)
+        background-image: linear-gradient(blue,rgb(6, 73, 90),blue)
     }
     .row2{
         margin-top: 3%;
